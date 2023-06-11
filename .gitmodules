@@ -1,4 +1,4 @@
 [submodule "stashapi"]
 	path = stashapi
-	url = https://github.com/stg-annon/stashapi.git
+	url = https://github.com/unatco90/stashapi.git
 	branch = main
