@@ -9,13 +9,13 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="stashapp-tools",
-    version="main",
+    version="v0.2.22",
     description="A python library for interfacing with a stashapp's API",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/stg-annon/stashapp-tools",
-    author="stg-annon",
-    author_email="14135675+stg-annon@users.noreply.github.com",
+    url="https://github.com/unatco90/stashapp-tools",
+    author="unatco90",
+    author_email="99694038+unatco90@users.noreply.github.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
